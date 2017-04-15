@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="c7ebc615-e8eb-4013-aa0d-6e6162a6a2c5"
+    Name="14a23e6e-99b5-4d0d-a37f-8c424e8d2b5a"
     Publisher="CN=motiv"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="c7ebc615-e8eb-4013-aa0d-6e6162a6a2c5" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="14a23e6e-99b5-4d0d-a37f-8c424e8d2b5a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>TraktRoulette.UWP</DisplayName>

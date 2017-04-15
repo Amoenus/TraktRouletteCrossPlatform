@@ -4,14 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{65E9A1A2-146D-41CA-B1FD-BFF3FB7C75EC}</ProjectGuid>
+    <ProjectGuid>{138B2D01-93B4-4899-95E0-6DD3D1C8D10E}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TraktRoulette.UWP</RootNamespace>
     <AssemblyName>TraktRoulette.UWP</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.14393.0</TargetPlatformVersion>
+    <TargetPlatformVersion>10.0.15063.0</TargetPlatformVersion>
     <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
@@ -153,7 +153,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TraktRoulette\TraktRoulette.csproj">
-      <Project>{370cc2c5-13ef-41cb-a2a5-d626ed55c758}</Project>
+      <Project>{e2741c30-7a39-435d-ad1d-33d788e4eaea}</Project>
       <Name>TraktRoulette</Name>
     </ProjectReference>
   </ItemGroup>
